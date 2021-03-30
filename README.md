@@ -3,7 +3,7 @@ Testing Laravel Sanctum
 
 
 Endpoints:
-api\register
+<br> api\register
 api\login
 api\user
 api\logout
